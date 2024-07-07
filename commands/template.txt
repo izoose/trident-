@@ -1,0 +1,7 @@
+module.exports = {
+    name: 'name',
+    description: "description",
+    async execute(interaction, options){ 
+        interaction.reply({content: "Not Implemented", ephemeral: true})
+    }
+}
