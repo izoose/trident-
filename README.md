@@ -19,7 +19,7 @@
 
 3. **Configure MongoDB**:
    Go to the `config.js` file in the `trident/data` directory with the following content:
-   ```json
+   ```js
    module.exports = {
        dbURL: "MONGO_DB_URL_HERE",
    }
