@@ -1,3 +1,7 @@
+# Trident
+- Documentation for setup is below. (Made by ChatGPT, hopefully it's doable.) 
+- Video will come soon within the following week.
+
 ### 1. Create a MongoDB Database
 
 1. **Sign Up**: Go to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and sign up for a free account.
@@ -82,7 +86,7 @@
              "proxy3"
          ]
      }
-     ```json
+     ```
 
    For `discordBotClient`:
     ```js
